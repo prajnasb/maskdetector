@@ -1,0 +1,74 @@
+<annotation>
+	<folder>data</folder>
+	<filename>group-people-image-171200-9674099-with-mask.jpg</filename>
+	<path>/media/preeth/Data/prajna_files/groupmask_dect/data/group-people-image-171200-9674099-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>237</ymin>
+			<xmax>205</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>161</ymin>
+			<xmax>409</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>381</ymin>
+			<xmax>417</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>632</ymin>
+			<xmax>938</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>130</ymin>
+			<xmax>760</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

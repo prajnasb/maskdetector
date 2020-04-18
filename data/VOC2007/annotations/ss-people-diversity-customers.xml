@@ -1,0 +1,134 @@
+<annotation>
+	<folder>data</folder>
+	<filename>ss-people-diversity-customers.jpg</filename>
+	<path>/media/preeth/Data/prajna_files/groupmask_dect/data/ss-people-diversity-customers.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>311</ymin>
+			<xmax>967</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1266</xmin>
+			<ymin>316</ymin>
+			<xmax>1430</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>262</ymin>
+			<xmax>669</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>44</ymin>
+			<xmax>787</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1608</xmin>
+			<ymin>101</ymin>
+			<xmax>1756</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>197</ymin>
+			<xmax>199</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1627</xmin>
+			<ymin>358</ymin>
+			<xmax>1783</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymin>212</ymin>
+			<xmax>1213</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1781</xmin>
+			<ymin>241</ymin>
+			<xmax>1920</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>without mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>180</ymin>
+			<xmax>363</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

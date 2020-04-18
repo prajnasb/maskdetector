@@ -1,0 +1,110 @@
+<annotation>
+	<folder>data</folder>
+	<filename>student-university-erasmus-programme-education-course-studen-with-mask.jpg</filename>
+	<path>/media/preeth/Data/prajna_files/groupmask_dect/data/student-university-erasmus-programme-education-course-studen-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>50</ymin>
+			<xmax>183</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>60</ymin>
+			<xmax>238</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>76</ymin>
+			<xmax>306</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>77</ymin>
+			<xmax>353</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>58</ymin>
+			<xmax>466</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>82</ymin>
+			<xmax>543</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>33</ymin>
+			<xmax>404</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>45</ymin>
+			<xmax>589</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

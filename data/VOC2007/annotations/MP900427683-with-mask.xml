@@ -1,0 +1,98 @@
+<annotation>
+	<folder>data</folder>
+	<filename>MP900427683-with-mask.jpg</filename>
+	<path>/media/preeth/Data/prajna_files/groupmask_dect/data/MP900427683-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>963</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>117</ymin>
+			<xmax>733</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>260</ymin>
+			<xmax>310</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>275</ymin>
+			<xmax>166</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>220</ymin>
+			<xmax>547</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>849</xmin>
+			<ymin>308</ymin>
+			<xmax>941</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymin>268</ymin>
+			<xmax>1068</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1106</xmin>
+			<ymin>262</ymin>
+			<xmax>1222</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
